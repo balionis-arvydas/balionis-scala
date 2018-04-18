@@ -1,9 +1,13 @@
 package com.balionis.scala5
 
-import com.typesafe.scalalogging.LazyLogging
+import java.util.Objects
+
 import com.google.inject.Inject
+import com.typesafe.scalalogging.LazyLogging
 
 class MyAppRunnerImpl @Inject()(val service : MyService) extends MyAppRunner with LazyLogging {
+
+  Objects.requireNonNull(service, "service")
 
   @Override
   def run(args: MyAppArgs): Int = {
