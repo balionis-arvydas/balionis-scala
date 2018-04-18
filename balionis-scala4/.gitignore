@@ -1,3 +1,6 @@
 .gradle
 .idea
 build
+project
+target
+balionis-scala4.log

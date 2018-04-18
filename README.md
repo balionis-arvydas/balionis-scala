@@ -16,4 +16,10 @@ This set of packages is meant to provide me with the prototype of build, test, p
    - build, package and run with sbt;
    - use logback;
    
+5. balionis-scala5
+   - build, package and run with gradle;
+   - use logback;
+   - use guice for injection;
+   - use arg4j for command line parsing;
+   
    
