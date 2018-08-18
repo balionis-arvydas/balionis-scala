@@ -1,6 +1,6 @@
 # Why?
 
-Text.
+This sample is to remember how to do implicit type casting.
 
 # What?
 

@@ -1,6 +1,6 @@
 # Why?
 
-Text.
+This simplation is to prove the ball machine randomizer is broken.
 
 # What?
 
