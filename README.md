@@ -22,4 +22,16 @@ This set of packages is meant to provide me with the prototype of build, test, p
    - use guice for injection;
    - use arg4j for command line parsing;
    
+5. balionis-scala6
+   - build, package and run with gradle;
+   - use logback;
+   - use guice for injection;
+   - remember implicit type casting
+   
+5. balionis-scala7
+   - build, package and run with gradle;
+   - use logback;
+   - use guice for injection;
+   - spike the lottery machine randomizer 
+ 
    
